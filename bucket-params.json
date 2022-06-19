@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "ProjectName",
+    "ParameterValue": "Udagram-Oce-WebApp"
+  },
+  {
+    "ParameterKey": "BucketName",
+    "ParameterValue": "udagram-920597251191-bucket"
+  }
+]
